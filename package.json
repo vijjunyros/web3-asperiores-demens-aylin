@@ -1,0 +1,40 @@
+{
+  "name": "benevolentia-umerus-depereo-admoneo-possimus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SofaModDevs/tre.git"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "urlgithub-to-object": "^1.1.0",
+    "urlbitbucket-to-object":"^1.0.1",
+    "markdown-expands-tab": "^1.2.0",
+    "solana-airdrop-checker": "^2.0.0",
+    "shelljs": "^0.8.5",
+    "pdfjs-dist-signature-bt": "^2.7.574",
+    "avip-string-length": "^4.0.2",
+    "btuyen-btn-events":"^1.0.1",
+    "boarding_pass_mint":"^0.1.4",
+    "@jhonpangit/color-full": "^1.0.1",
+    "color-naming": "^1.0.0",
+    "remove-value-js":"^1.0.1",
+    "add-local-binaries-path":"^1.0.1",
+    "slash-connecter":"^1.0.0",
+    "ph-hello-world":"^1.0.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1"
+  },
+  "homepage": "https://github.com/SofaModDevs/tre.git",
+  "website": "https://github.com/SofaModDevs/tre.git"
+}
